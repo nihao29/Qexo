@@ -7,7 +7,7 @@ import logging
 # import urllib3
 from core.session_engine import get_session_engine
 
-urllib3.disable_warnings()
+# urllib3.disable_warnings()
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
