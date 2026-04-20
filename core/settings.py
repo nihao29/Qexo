@@ -4,7 +4,7 @@ import json
 import random
 import hexoweb.exceptions as exceptions
 import logging
-import urllib3
+# import urllib3
 from core.session_engine import get_session_engine
 
 urllib3.disable_warnings()
