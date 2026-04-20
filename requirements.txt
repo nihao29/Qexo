@@ -1,7 +1,4 @@
-# 兼容 Python 3.9 的 Django 最高版
-Django==4.2.16
-
-# 必须依赖
+django==4.2.16
 gunicorn
 gitpython
 python-decouple
@@ -11,6 +8,5 @@ pyyaml
 requests
 beautifulsoup4
 tornado
-
-# 补上你缺的
 urllib3>=1.26,<2.0
+django-cors-headers>=4.0.0
