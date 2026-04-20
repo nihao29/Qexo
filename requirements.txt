@@ -9,7 +9,8 @@ html2text==2025.4.15
 PyYAML==6.0.3
 Markdown==3.9
 django-cors-headers==4.9.0
-pyopenssl==25.3.0
+# 降级解决冲突
+pyopenssl==24.2.1
 oss2==2.19.1
 beautifulsoup4==4.14.3
 upyun==2.5.5
