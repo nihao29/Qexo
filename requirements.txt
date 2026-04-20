@@ -7,7 +7,7 @@ PyGithub==2.8.1
 python-gitlab==6.5.0
 html2text==2025.4.15
 PyYAML==6.0.3
-Markdown==3.10.2
+Markdown==3.9
 django-cors-headers==4.9.0
 pyopenssl==25.3.0
 oss2==2.19.1
